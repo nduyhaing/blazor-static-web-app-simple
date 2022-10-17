@@ -1,0 +1,1 @@
+# blazor-static-web-app-simple
